@@ -7,10 +7,7 @@
     "has_nav": true,
     "menu": {
       "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
+
       ]
     }
   },
